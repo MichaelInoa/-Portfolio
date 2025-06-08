@@ -3,7 +3,7 @@ import { images } from '../../constants'
 export const project = [
   { id: 1, title: 'Chronical Strategy Partners', description: 'Helping small businesses scale.', imgUrl: images.Chronicle, url: 'https://chroniclestrategy.com', tags: ['Landing Page'],  },
   
-  { id: 2, title: 'Rentalo | Auto Rentals', description: 'Car renting website.', imgUrl: images.rentalo, url: 'https://chroniclestrategy.com', tags: ['Landing Page'],  },
+  { id: 2, title: 'Rentalo | Auto Rentals', description: 'Car renting website.', imgUrl: images.rentalo, url: 'https://michaelinoa.github.io/Rentalo-Auto-Rental/', tags: ['Landing Page'],  },
   
   
   // { id: 1, title: 'campusEase', description: 'A platform built to simplify student living', imgUrl: images.campuseEase, url: 'https://campusease-v2.vercel.app', tags: ['Personal', 'Web App'], stack: ['Nextjs', 'Typescript', 'TailwindCss', 'MongoDB'] },
