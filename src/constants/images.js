@@ -18,6 +18,9 @@ import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import firebase from '../assets/firebase.png';
 import tailwind from '../assets/tailwind.png';
+import wordpress from '../assets/wordpress.png';
+import canva from '../assets/canva.jpg';
+import framer from '../assets/framer.jpg'
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -49,6 +52,7 @@ import tourmaline from '../assets/tourmaline.png'
 import morphy from '../assets/morphy.png'
 import ms_luxury from '../assets/ms_luxury.png'
 import productDashboard from '../assets/product.png'
+import rentalo from '../assets/rentalo.png'
 
 
 export default {
@@ -88,6 +92,9 @@ export default {
   firebase,
   tailwind,
   Nextjs,
+  wordpress,
+  canva,
+  framer,
   
   campuseEase,
   sdk,
@@ -101,4 +108,5 @@ export default {
   morphy,
   ms_luxury,
   productDashboard,
+  rentalo
 };
